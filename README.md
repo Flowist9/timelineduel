@@ -105,9 +105,17 @@ The project includes systems for:
 
 ## Screenshots
 
-Screenshots and gameplay previews will be added as development progresses.
+<p align="center">
+  <img src="assets/readme/quiz-question.png" width="30%" alt="TimelineDuel Quiz">
+  &nbsp;
+  <img src="assets/readme/timeline-comparison.png" width="30%" alt="TimelineDuel Timeline Comparison">
+  &nbsp;
+  <img src="assets/readme/battle.png" width="30%" alt="TimelineDuel Battle">
+</p>
 
----
+<p align="center">
+  <sub>Historical trivia · Timeline comparisons · Strategic card battles</sub>
+</p>
 
 ## Development
 
