@@ -1,0 +1,32 @@
+const Map<String, String> portraitAssetOverrides = {
+  'al_khwarizmi': 'assets/persons/portrait/al_khwarizmi.png',
+  'antoine_lavoisier': 'assets/persons/portrait/antoine_lavoisier.png',
+  'emmy_noether': 'assets/persons/portrait/emmy_noether.png',
+  'han_wudi': 'assets/persons/portrait/han_wudi.png',
+  'ibn_sina': 'assets/persons/portrait/ibn_sina.png',
+  'joseph_stalin': 'assets/persons/portrait/joseph_stalin.png',
+  'murasaki': 'assets/persons/portrait/murasaki.png',
+  'plato': 'assets/persons/portrait/plato.png',
+  'richard_feynman': 'assets/persons/portrait/richard_feynman.png',
+  'saladin': 'assets/persons/portrait/saladin.png',
+  'simon_bolivar': 'assets/persons/portrait/simon_bolivar.png',
+  'suleiman': 'assets/persons/portrait/suleiman.png',
+};
+
+const Map<String, String> vsAssetOverrides = {
+  'al_khwarizmi': 'assets/persons/vs/al_khwarizmi.png',
+  'boudicca': 'assets/persons/vs/boudicca.png',
+  'chris_hemsworth': 'assets/persons/vs/chris_hemsworth.png',
+  'columbus': 'assets/persons/vs/columbus.png',
+  'cyrus_great': 'assets/persons/vs/cyrus_great.png',
+  'elvis_presley': 'assets/persons/vs/elvis_presley.png',
+  'emmy_noether': 'assets/persons/vs/emmy_noether.png',
+  'han_wudi': 'assets/persons/vs/han_wudi.png',
+  'indira_gandhi': 'assets/persons/vs/indira_gandhi.png',
+  'johann_sebastian_bach': 'assets/persons/vs/johann_sebastian_bach.png',
+  'john_locke': 'assets/persons/vs/john_locke.png',
+  'kepler': 'assets/persons/vs/kepler.png',
+  'mike_tyson': 'assets/persons/vs/mike_tyson.png',
+  'thomas_aquinas': 'assets/persons/vs/thomas_aquinas.png',
+  'voltaire': 'assets/persons/vs/voltaire.png',
+};
